@@ -18,7 +18,7 @@ b.remove(max(b))
 b.remove(min(b))
 b.remove(max(b))
 b.remove(min(b))
-
+print (b)
 i-=4
 x=sum(b)
 s2=0.0
