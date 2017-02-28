@@ -1,5 +1,4 @@
 # ----------ASKHSH 3 ----------
-from __future__ import division
 q=0
 q=input("DWSE EPILOGH  \n 1 gia  OLH LISTA \n 2 gia JEXVSRISTA KATHE STOIXEIO  ")
 if (q==1):
