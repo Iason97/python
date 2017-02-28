@@ -29,3 +29,5 @@ if (k>v):
     print("Perissoteres Lexeis exei o xrhsths  " + screenname1)
 elif (k<v):
     print("Perissoteres Lexeis exei o xrhsths  " + screenname2)
+else :
+    print("kanenas den exei perisoteres lexeis")
